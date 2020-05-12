@@ -1,5 +1,9 @@
 # Contao 4 skeleton bundle
 
+Following this tutorial:
+
+https://gist.github.com/joergmoldenhauer/90fa0c9c6af2c7a36bdbc2d039095142
+
 Contao is an Open Source PHP Content Management System for people who want a
 professional website that is easy to maintain. Visit the [project website][1]
 for more information.

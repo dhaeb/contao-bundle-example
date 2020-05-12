@@ -10,15 +10,15 @@
 
 namespace Contao\SkeletonBundle\Tests;
 
-use Contao\SkeletonBundle\ContaoSkeletonBundle;
+use Contao\SkeletonBundle\HelloWorldBundle;
 use PHPUnit\Framework\TestCase;
 
-class ContaoSkeletonBundleTest extends TestCase
+class HelloWorldBundleTest extends TestCase
 {
     public function testCanBeInstantiated()
     {
-        $bundle = new ContaoSkeletonBundle();
+        $bundle = new HelloWorldBundle();
 
-        $this->assertInstanceOf('Contao\SkeletonBundle\ContaoSkeletonBundle', $bundle);
+        $this->assertInstanceOf('Contao\SkeletonBundle\HelloWorldBundle', $bundle);
     }
 }
